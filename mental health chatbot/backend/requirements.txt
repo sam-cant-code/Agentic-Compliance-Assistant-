@@ -12,3 +12,4 @@ notebook
 pypdf
 langchain_chroma
 tiktoken
+langchain_google_genai
