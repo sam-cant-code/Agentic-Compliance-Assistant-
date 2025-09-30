@@ -1,0 +1,7 @@
+python -m venv venv
+
+source venv/Scripts/activate    
+
+pip install -r requirements.txt
+
+python -m ipykernel install --user --name=mental-health-venv --display-name="Python (mental-health-chatbot)"

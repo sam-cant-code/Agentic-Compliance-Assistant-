@@ -1,0 +1,14 @@
+flask
+flask-cors
+google-generativeai
+langchain-community
+python-dotenv
+sentence-transformers
+torch
+chromadb
+ipykernel
+jupyterlab
+notebook
+pypdf
+langchain_chroma
+tiktoken
